@@ -1,6 +1,0 @@
-C:\Users\Cengiz\source\repos\emlak kayıt\emlak kayıt\obj\Debug\net8.0-windows\emlak_kayıt.Form1.resources
-C:\Users\Cengiz\source\repos\emlak kayıt\emlak kayıt\obj\Debug\net8.0-windows\emlak kayıt.csproj.GenerateResource.cache
-C:\Users\Cengiz\source\repos\emlak kayıt\emlak kayıt\obj\Debug\net8.0-windows\emlak kayıt.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Cengiz\source\repos\emlak kayıt\emlak kayıt\obj\Debug\net8.0-windows\emlak kayıt.AssemblyInfoInputs.cache
-C:\Users\Cengiz\source\repos\emlak kayıt\emlak kayıt\obj\Debug\net8.0-windows\emlak kayıt.AssemblyInfo.cs
-C:\Users\Cengiz\source\repos\emlak kayıt\emlak kayıt\obj\Debug\net8.0-windows\emlak kayıt.csproj.CoreCompileInputs.cache
